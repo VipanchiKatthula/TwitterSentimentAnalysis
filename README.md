@@ -1,6 +1,6 @@
 # Twittter Sentiment Analysis
 
-### Table of contents
+### TABLE OF CONTENTS
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
